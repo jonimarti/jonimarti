@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonimarti
 - 👀 I’m interested in VR and IA
 
-- 📫 How to reach me here and there..
+- 📫 you can reachme at jonimarti[at]gmail . COM
 
 <!---
 jonimarti/jonimarti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
